@@ -1,6 +1,6 @@
 /obj/item/boxcutter
-	name = "boxcutter"
-	desc = "A tool for cutting boxes, or throats."
+	name = "Канцелярский нож"
+	desc = "Инструмент для разрезания коробок... Или глоток"
 	icon = 'icons/obj/tools.dmi'
 	icon_state = "boxcutter"
 	inhand_icon_state = "boxcutter"
